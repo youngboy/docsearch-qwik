@@ -1,6 +1,6 @@
 {
   "name": "docsearch-qwik",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a component library Vite.js tooling. Prettier code formatter.",
   "scripts": {
     "build": "npm run build.lib && npm run build.types",
@@ -45,10 +45,14 @@
     ".": {
       "import": "./lib/index.qwik.mjs",
       "require": "./lib/index.qwik.cjs"
+    },
+    "./src": {
+      "import": "./src/index.ts"
     }
   },
   "files": [
-    "lib"
+    "lib",
+    "src"
   ],
   "homepage": "https://qwik.builder.io/",
   "license": "",
