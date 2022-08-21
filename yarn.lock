@@ -139,10 +139,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@builder.io/qwik@0.0.100":
-  version "0.0.100"
-  resolved "https://registry.npmmirror.com/@builder.io/qwik/-/qwik-0.0.100.tgz#a6fade4dbc1b2eb146f8f29cc97c0ba9e727dfc5"
-  integrity sha512-q/9dhBRHZ8oXHaBUwljVa2RRKR/3dLzTcwA89oUd57uipndS8FMjVeBff/QFrhNYYTx5BLgcfjreEJKnrcZIRQ==
+"@builder.io/qwik@0.0.100-dev20220820024200":
+  version "0.0.100-dev20220820024200"
+  resolved "https://registry.npmmirror.com/@builder.io/qwik/-/qwik-0.0.100-dev20220820024200.tgz#bd4d46b3692c75accc7b8a17e4fc29c1884733cf"
+  integrity sha512-bf487ry2Y26Ub0Ulq62gNff6uYjea/zIMTIhj/mPx1f7U/ElC4TfCVIe9jmZv6Qsa5ozlnFJC+jLl/UCU6KjXg==
 
 "@esbuild/linux-loong64@0.14.54":
   version "0.14.54"

@@ -1,6 +1,6 @@
 {
   "name": "docsearch-qwik",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a component library Vite.js tooling. Prettier code formatter.",
   "scripts": {
     "build": "npm run build.lib && npm run build.types",
@@ -25,7 +25,7 @@
     "algoliasearch": "^4.14.2"
   },
   "devDependencies": {
-    "@builder.io/qwik": "0.0.100",
+    "@builder.io/qwik": "0.0.100-dev20220820024200",
     "@types/eslint": "8.4.5",
     "@types/node": "latest",
     "@typescript-eslint/eslint-plugin": "5.30.7",
